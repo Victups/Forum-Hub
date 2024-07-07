@@ -1,6 +1,7 @@
 ## 💻 Sobre o projeto
 
 FórumHub é uma API REST desenvolvida em Spring Boot para um fórum de discussão, permitindo a criação, listagem, atualização e exclusão de tópicos.
+<div><img src="https://github.com/Victups/Conversor-de-Moedas/blob/main/Badge-Conversor.png"></div>
 
 ---
 
